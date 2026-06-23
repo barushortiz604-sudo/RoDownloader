@@ -8,4 +8,4 @@ ADVERTENCIA
 
 -Este Programa Requiere FFmpeg Para funcionar correctamente
 
--la App se congela a la hora de descargar el video / audio ya que esta descargando el video
+-la App se congela a la hora de descargar el video / audio ya que esta descargandolo
